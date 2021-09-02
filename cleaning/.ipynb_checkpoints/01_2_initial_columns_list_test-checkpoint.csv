@@ -1,0 +1,81 @@
+,0
+Id,Id
+PID,PID
+MS SubClass,MS SubClass
+MS Zoning,MS Zoning
+Lot Frontage,Lot Frontage
+Lot Area,Lot Area
+Street,Street
+Alley,Alley
+Lot Shape,Lot Shape
+Land Contour,Land Contour
+Utilities,Utilities
+Lot Config,Lot Config
+Land Slope,Land Slope
+Neighborhood,Neighborhood
+Condition 1,Condition 1
+Condition 2,Condition 2
+Bldg Type,Bldg Type
+House Style,House Style
+Overall Qual,Overall Qual
+Overall Cond,Overall Cond
+Year Built,Year Built
+Year Remod/Add,Year Remod/Add
+Roof Style,Roof Style
+Roof Matl,Roof Matl
+Exterior 1st,Exterior 1st
+Exterior 2nd,Exterior 2nd
+Mas Vnr Type,Mas Vnr Type
+Mas Vnr Area,Mas Vnr Area
+Exter Qual,Exter Qual
+Exter Cond,Exter Cond
+Foundation,Foundation
+Bsmt Qual,Bsmt Qual
+Bsmt Cond,Bsmt Cond
+Bsmt Exposure,Bsmt Exposure
+BsmtFin Type 1,BsmtFin Type 1
+BsmtFin SF 1,BsmtFin SF 1
+BsmtFin Type 2,BsmtFin Type 2
+BsmtFin SF 2,BsmtFin SF 2
+Bsmt Unf SF,Bsmt Unf SF
+Total Bsmt SF,Total Bsmt SF
+Heating,Heating
+Heating QC,Heating QC
+Central Air,Central Air
+Electrical,Electrical
+1st Flr SF,1st Flr SF
+2nd Flr SF,2nd Flr SF
+Low Qual Fin SF,Low Qual Fin SF
+Gr Liv Area,Gr Liv Area
+Bsmt Full Bath,Bsmt Full Bath
+Bsmt Half Bath,Bsmt Half Bath
+Full Bath,Full Bath
+Half Bath,Half Bath
+Bedroom AbvGr,Bedroom AbvGr
+Kitchen AbvGr,Kitchen AbvGr
+Kitchen Qual,Kitchen Qual
+TotRms AbvGrd,TotRms AbvGrd
+Functional,Functional
+Fireplaces,Fireplaces
+Fireplace Qu,Fireplace Qu
+Garage Type,Garage Type
+Garage Yr Blt,Garage Yr Blt
+Garage Finish,Garage Finish
+Garage Cars,Garage Cars
+Garage Area,Garage Area
+Garage Qual,Garage Qual
+Garage Cond,Garage Cond
+Paved Drive,Paved Drive
+Wood Deck SF,Wood Deck SF
+Open Porch SF,Open Porch SF
+Enclosed Porch,Enclosed Porch
+3Ssn Porch,3Ssn Porch
+Screen Porch,Screen Porch
+Pool Area,Pool Area
+Pool QC,Pool QC
+Fence,Fence
+Misc Feature,Misc Feature
+Misc Val,Misc Val
+Mo Sold,Mo Sold
+Yr Sold,Yr Sold
+Sale Type,Sale Type
